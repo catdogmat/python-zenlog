@@ -1,5 +1,5 @@
 
-Zenlog is a Python logging tool for lazy people, meant for quick use of 
+Zenlog Updated is a Python logging tool for lazy people, meant for quick use of 
 prettified log messages.
 
 Usage
