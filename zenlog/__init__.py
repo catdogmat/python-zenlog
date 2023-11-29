@@ -3,11 +3,11 @@ import logging
 import colorlog
 
 # a theme is just a dict of strings to represent each level
-THEME = {logging.CRITICAL: " [!!!!!] ",
-         logging.ERROR:    "  [!!!]  ",
-         logging.WARNING:  "   [!]   ",
-         logging.INFO:     "    i    ",
-         logging.DEBUG:    "   ...   "}
+THEME = {logging.CRITICAL: "CRITICAL ",
+         logging.ERROR:    "ERROR ",
+         logging.WARNING:  "WARNING ",
+         logging.INFO:     "INFO ",
+         logging.DEBUG:    "DEBUG "}
 
 
 class Log:
